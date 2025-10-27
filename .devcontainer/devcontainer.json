@@ -1,7 +1,7 @@
 // .devcontainer/devcontainer.json
 {
     // Nombre del entorno de desarrollo
-    "name": "proyecto-calendario",
+    "name": "proyecto-rolgame",
 
     // Apunta a tu archivo docker-compose.yml y especifica el servicio principal
     "build": {
