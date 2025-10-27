@@ -1,0 +1,19 @@
+{
+    "name": "dsw/rolgame",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dsw\\Rolgame\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrés Crespo",
+            "email": "acrerosj@canariaseducacion.es"
+        }
+    ],
+    "require": {}
+}
